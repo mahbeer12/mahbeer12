@@ -21,14 +21,14 @@ most of my work lives outside this profile —
 - 💼 **Prospect OS** — frontend & UX engineering intern (March 2026–present)
 - 🔬 **NC A&T State University** — AI/ML research assistant, predictive modelling for additive manufacturing, paper under review
 - ✍️ **Substack** — writing on neuroscience, philosophy, and science — recognized by Neural Foundry (AI healthcare company)
-- 📬 **NGN Hacks** — growth & logistics intern, 500K+ impressions, 0→1K followers in under 5 reels
+  
 
 ---
 
 ## stack
 
 ```
-Languages:   Python · JavaScript · TypeScript · HTML/CSS
+Languages:   Python · Pandas · TypeScript · HTML/CSS
 Frameworks:  React · Next.js · Tailwind CSS · Node.js
 Tools:       Git · Figma · Notion · Airtable · Canva
 AI:          Claude API · ChatGPT API · DeepL
